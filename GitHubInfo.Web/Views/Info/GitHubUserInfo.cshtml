@@ -1,0 +1,40 @@
+﻿@model GitHubInfo.DataModels.Info
+
+@{
+    ViewBag.Title = "GitHub UserInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model != null)
+{
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-2">
+                    <img src="@Url.Content(@Model.Avatar_Url)" alt="Image Not Available" style="width: 100%;" />
+                </div>
+                <div class="col-md-10">
+                    <div class="h4 col-md-12">
+                        @Html.DisplayFor(model => model.Name)<small>&nbsp;@Html.DisplayFor(model => model.Login)</small>
+                    </div>
+                    <div class="col-md-12">
+                        @Html.DisplayFor(model => model.Location)
+                    </div>
+                    <div class="col-md-12">
+                        @Html.DisplayFor(model => model.Bio)
+                    </div>
+                    <div class="col-md-4">
+                        <h3>@Html.DisplayFor(model => model.Public_Repos)<small> @Html.DisplayNameFor(model => model.Public_Repos)</small></h3>
+                    </div>
+                    <div class="col-md-4">
+                        <h3>@Html.DisplayFor(model => model.Followers)<small> @Html.DisplayNameFor(model => model.Followers)</small></h3>
+                    </div>
+                    <div class="col-md-4">
+                        <h3>@Html.DisplayFor(model => model.Public_Gists)<small> @Html.DisplayNameFor(model => model.Public_Gists)</small></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @Html.Action("GitHubRepoInfo", "Repo", new { repoUrl = Model.Repos_Url })
+}

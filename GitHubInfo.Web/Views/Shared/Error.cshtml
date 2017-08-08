@@ -1,0 +1,10 @@
+﻿@model HandleErrorInfo
+
+@{
+    ViewBag.Title = "Error";
+}
+
+<p>Controller Name: @Model.ControllerName</p>
+<p>Action Name : @Model.ActionName</p>
+<p>Message: @Model.Exception.Message</p>
+<h4 class="text-danger">Sorry an error has occurred while processing your request.</h4>

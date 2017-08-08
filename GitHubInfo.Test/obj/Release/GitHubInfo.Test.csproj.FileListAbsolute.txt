@@ -1,0 +1,64 @@
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Test.dll.config
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Test.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Test.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Data.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Services.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Web.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Helpers.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Mvc.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Razor.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Optimization.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\Owin.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\Microsoft.Owin.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Data.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Services.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Web.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Helpers.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Mvc.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Razor.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Optimization.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\bin\Release\Microsoft.Owin.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\obj\Release\GitHubInfo.Test.csprojResolveAssemblyReference.cache
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\obj\Release\GitHubInfo.Test.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Test\obj\Release\GitHubInfo.Test.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Test.dll.config
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Test.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Test.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.DataModels.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Services.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Web.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Helpers.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Mvc.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Razor.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.Deployment.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.Razor.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\Newtonsoft.Json.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Optimization.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\Owin.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\Microsoft.Owin.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.DataModels.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Services.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\GitHubInfo.Web.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Helpers.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Mvc.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Razor.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.Deployment.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.WebPages.Razor.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\Newtonsoft.Json.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\System.Web.Optimization.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\bin\Release\Microsoft.Owin.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\obj\Release\GitHubInfo.Test.csprojResolveAssemblyReference.cache
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\obj\Release\GitHubInfo.Test.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Test\obj\Release\GitHubInfo.Test.pdb

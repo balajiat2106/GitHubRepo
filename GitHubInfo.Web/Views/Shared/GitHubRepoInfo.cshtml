@@ -1,0 +1,32 @@
+﻿@model IEnumerable<GitHubInfo.DataModels.Repo>
+
+<div class="panel panel-default">
+    <div class="panel-heading h4">Repository List</div>
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Stargazers_Count)
+                </th>
+                <th>@Html.DisplayNameFor(model => model.Url)</th>
+            </tr>
+        </thead>
+        @foreach (var ie in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(i => ie.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(i => ie.Stargazers_Count)
+                </td>
+                <td>
+                    <a href=@ie.Url target="_blank">@ie.Url</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

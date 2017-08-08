@@ -1,0 +1,118 @@
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Web.dll.config
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Web.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Web.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Antlr3.Runtime.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\EntityFramework.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Data.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Services.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Owin.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.Helpers.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.Mvc.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.Optimization.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.Razor.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\WebGrease.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Newtonsoft.Json.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Data.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Services.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.Helpers.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.Mvc.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.Razor.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\System.Web.Optimization.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Antlr3.Runtime.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\EntityFramework.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\bin\Newtonsoft.Json.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\obj\Release\GitHubInfo.Web.csprojResolveAssemblyReference.cache
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\obj\Release\GitHubInfo.Web.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Web\obj\Release\GitHubInfo.Web.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Web.dll.config
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Web.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Web.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Antlr3.Runtime.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\EntityFramework.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\EntityFramework.SqlServer.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.DataModels.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Services.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Owin.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.Helpers.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.Mvc.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.Optimization.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.Razor.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.Deployment.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.Razor.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\WebGrease.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Newtonsoft.Json.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.DataModels.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\GitHubInfo.Services.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.Helpers.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.Mvc.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.Razor.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.Deployment.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.WebPages.Razor.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\System.Web.Optimization.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Antlr3.Runtime.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\EntityFramework.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\EntityFramework.SqlServer.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\bin\Newtonsoft.Json.xml
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\obj\Release\GitHubInfo.Web.csprojResolveAssemblyReference.cache
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\obj\Release\GitHubInfo.Web.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Web\obj\Release\GitHubInfo.Web.pdb

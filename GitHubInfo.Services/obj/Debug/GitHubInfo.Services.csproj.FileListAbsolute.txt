@@ -1,0 +1,8 @@
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\obj\Debug\GitHubInfo.Services.csprojResolveAssemblyReference.cache
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\bin\Debug\GitHubInfo.Services.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\bin\Debug\GitHubInfo.Services.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\bin\Debug\Newtonsoft.Json.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\obj\Debug\GitHubInfo.Services.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\obj\Debug\GitHubInfo.Services.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\bin\Debug\GitHubInfo.DataModels.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\bin\Debug\GitHubInfo.DataModels.pdb

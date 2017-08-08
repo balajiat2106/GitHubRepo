@@ -1,0 +1,17 @@
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Services\bin\Release\GitHubInfo.Services.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Services\bin\Release\GitHubInfo.Services.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Services\bin\Release\GitHubInfo.Data.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Services\bin\Release\Newtonsoft.Json.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Services\bin\Release\GitHubInfo.Data.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Services\bin\Release\Newtonsoft.Json.xml
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Services\obj\Release\GitHubInfo.Services.csprojResolveAssemblyReference.cache
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Services\obj\Release\GitHubInfo.Services.dll
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\GitHubInfo\GitHubInfo.Services\obj\Release\GitHubInfo.Services.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\bin\Release\GitHubInfo.Services.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\bin\Release\GitHubInfo.Services.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\bin\Release\GitHubInfo.DataModels.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\bin\Release\Newtonsoft.Json.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\bin\Release\GitHubInfo.DataModels.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\obj\Release\GitHubInfo.Services.csprojResolveAssemblyReference.cache
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\obj\Release\GitHubInfo.Services.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.Services\obj\Release\GitHubInfo.Services.pdb

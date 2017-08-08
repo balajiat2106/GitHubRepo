@@ -1,0 +1,61 @@
+﻿body {
+    padding-bottom: 20px;
+    background-color: #428bca !important; /*Fall back color*/
+    background-color: rgba(66, 139, 202, 0.44) !important;
+    color: #777777;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.navbar-default {
+    background-color: #428bca !important; /*Fall back color*/
+    background-color: rgba(66, 139, 202, 0.44) !important;
+}
+
+.navbar-collapse,.navbar-form{
+    padding: 0 !important;
+}
+
+.navbar-brand {
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+.btn-default {
+    color: #777777;
+}
+
+.navbar {
+    border: 0;
+    margin-bottom: 0;
+}
+
+.table-bordered > thead > tr > th {
+    font-weight: lighter !important;
+    font-style: italic;
+}
+
+.table-bordered > thead > tr > th, .table-bordered > thead > tr > td {
+    vertical-align: middle;
+}
+
+.container {
+    width: 970px;
+    max-width: none !important;
+    background-color: #428bca !important; /*Fall back color*/
+    background-color: rgba(66, 139, 202, 0.44) !important;
+    height: 100%;
+}
+
+.col-md-12 {
+    padding: 2px 0 2px 0;
+}
+
+.h4 {
+    color: #777777 !important;
+    padding-bottom: 5px;
+}

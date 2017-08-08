@@ -1,0 +1,4 @@
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.DataModels\bin\Debug\GitHubInfo.DataModels.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.DataModels\bin\Debug\GitHubInfo.DataModels.pdb
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.DataModels\obj\Debug\GitHubInfo.DataModels.dll
+D:\DotNetWorkspace\GitHubInfo\GitHubInfo.DataModels\obj\Debug\GitHubInfo.DataModels.pdb
